@@ -19,9 +19,7 @@ might delete all your files.
 
 This module is licensed under the same terms as perl itself.
 
-A mailing list for Mail::ListDetector is available at
-mail-listdetector@etla.org. To subscribe, send 'subscribe
-your@email.address' to mail-listdetector-request@etla.org
+Created github repo for the code at http://github.com/mstevens/Mail--ListDetector
 
 Michael Stevens
 michael@etla.org
