@@ -5,11 +5,12 @@ WriteMakefile(
     'NAME'          => 'Mail::ListDetector',
     'VERSION_FROM'  => 'lib/Mail/ListDetector.pm', # finds $VERSION
     'PREREQ_PM'     => {
-                        'Carp'            => 0,
-                        'Email::Abstract' => 0,
-                        'Email::Valid'    => 0.12,
-                        'URI'             => 1.10,
-                        'Test::More'      => 0.08,
+                        'Carp'            	=> 0,
+                        'Email::Abstract'	=> 3.001,
+                        'Email::Valid'    	=> 0.182,
+                        'URI'             	=> 1.10,
+                        'Test::More'      	=> 0.08,
+			'Mail::Internet'	=> 2.04,
                        }, 
     'dist' => { 'COMPRESS' => 'gzip -9f',
                 'SUFFIX'   => 'gz',
