@@ -64,3 +64,6 @@ Revision history for Perl extension Mail::ListDetector.
   - Fix CPAN RT bug 35320 - add missing dependency
   - Add Test::Kwalitee to ensure we always have kwalitee.
   - Add github repo http://github.com/mstevens/Mail--ListDetector
+
+1.03 30 Jun 2010
+  - Make license more explicit
