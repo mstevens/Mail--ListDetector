@@ -1,6 +1,8 @@
 package Mail::ListDetector::Detector::CommuniGatePro;
 
 use strict;
+use warnings;
+
 use vars qw($VERSION);
 $VERSION = '0.02';
 

@@ -1,6 +1,8 @@
 package Mail::ListDetector;
 
 use strict;
+use warnings;
+
 use Carp qw(carp croak);
 
 require Exporter;

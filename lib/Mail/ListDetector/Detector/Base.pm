@@ -1,6 +1,7 @@
 package Mail::ListDetector::Detector::Base;
 
 use strict;
+use warnings;
 
 sub new {
   my $proto = shift;

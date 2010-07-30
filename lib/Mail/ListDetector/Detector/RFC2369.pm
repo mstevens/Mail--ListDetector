@@ -1,6 +1,7 @@
 package Mail::ListDetector::Detector::RFC2369;
 
 use strict;
+use warnings;
 use base qw(Mail::ListDetector::Detector::Base);
 use Mail::ListDetector::List;
 use URI;

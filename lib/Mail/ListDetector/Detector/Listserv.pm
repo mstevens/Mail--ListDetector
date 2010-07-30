@@ -1,6 +1,8 @@
 package Mail::ListDetector::Detector::Listserv;
 
 use strict;
+use warnings;
+
 use vars qw($VERSION);
 $VERSION = '0.01';
 

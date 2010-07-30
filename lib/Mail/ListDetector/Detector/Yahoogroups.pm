@@ -1,6 +1,8 @@
 package Mail::ListDetector::Detector::Yahoogroups;
 
 use strict;
+use warnings;
+
 use base qw(Mail::ListDetector::Detector::Base);
 use Mail::ListDetector::List;
 use Carp;
