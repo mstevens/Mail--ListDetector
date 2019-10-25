@@ -8,13 +8,13 @@ This module can be installed as standard for a CPAN module:
   make test
   make install
 
-It provides the ability to examine Mail::Internet objects to determine
+It provides the ability to examine Mail:: Internet objects to determine
 if they were posted to a mailing list, and if so, which mailing list. See
 examples/sample.pl for how to use the module.
 
 The documentation is as yet very poor, and this module should be
-considered to still have alpha status - I may change functionality or
-the API at any time, and it may not actually DO anything for you. Or it
+considered to still have alpha status - I may change the functionality or
+the API at any time, and it may not DO anything for you. Or it
 might delete all your files.
 
 This module is licensed under the same terms as perl itself.
